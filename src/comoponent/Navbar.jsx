@@ -42,7 +42,7 @@ export const Navbar=()=>{
                </a>
            ))} */}
            <a className="bar1"  href='/'>Home</a>
-           <a className="bar1" href='/'>
+           <a className="bar1" href='/categories'>
            <div className="drop_down">Categories
 
            <div className="drop_down_content">

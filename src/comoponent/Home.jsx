@@ -36,7 +36,7 @@ export const Home=()=>{
         return () => {
           resetTimeoutuboric();
         };
-      }, [uboricIndex]);
+      },[uboricIndex]);
 
     return <div className="home">
                 <div id='project1'>
