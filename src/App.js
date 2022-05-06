@@ -6,6 +6,7 @@ import {
 } from 'react-router-dom';
 
 import { Categories } from './comoponent/Categories';
+import { Footer } from './comoponent/Footer';
 import { Home } from './comoponent/Home';
 import { Login } from './comoponent/Login';
 import { Marchent } from './comoponent/Marchent';
@@ -23,6 +24,7 @@ function App() {
         <Route path='/Merchant' element={<Marchent/>}></Route>
         <Route path='/Seller' element={<Seller/>}></Route>
       </Routes>
+      <Footer/>
     </div>
   );
 }

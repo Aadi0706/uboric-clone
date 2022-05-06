@@ -1,0 +1,66 @@
+.Footer{
+    height:400px;
+    width:100%;
+    background-color: black;
+}
+.footerimg{
+    margin-left:40%;
+    margin-top: 100px;
+}
+.footertext{
+    display:flex;
+    justify-content: space-between;
+    width:70%;
+    margin: auto;
+    color:white;
+    font-size: medium;
+    font-weight:600;
+    
+}
+.reserved{
+    text-align: center;
+    color: white;
+}
+.contect{
+    margin:auto;
+    width:20%;
+    display: flex;
+    color: white;
+}
+.FacebookIcon{
+    font-size: large;
+    border-radius:50px;
+    margin-top:6px;
+    color: black;
+    border-radius: 50%;
+    margin-left:6px;
+}
+.icons{
+    height: 46.8px;
+    width: 46.8px;
+    border-radius: 50%;
+    background-color:#ffce61;
+    margin-left: 400px;
+}
+.icons1{
+    height: 46.8px;
+    width: 46.8px;
+    border-radius: 50%;
+    background-color:#ffce61;
+    margin-left:20px;
+}
+.insta{
+    font-size: large;
+    border-radius:50px;
+    margin-top:6px;
+    color: black;
+    border-radius: 50%;
+    margin-left:6px;
+
+}
+.icons:hover{
+    background-color: white;
+}
+.icons1:hover{
+    background-color: white;
+}
