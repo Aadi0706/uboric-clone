@@ -1,0 +1,23 @@
+.categoryfiltercontainer{
+    width: 15%;
+   
+}
+.categoryfilter{
+    text-align: left;
+    justify-self: left;
+    /* border: 1px solid red; */
+    max-height: 250px;
+    overflow-y: scroll;
+    scroll-behavior: smooth;
+    margin-top: 5%;
+
+}
+
+.catfilterbutton{
+    width: 120px;
+    height: 40px;
+    font-size: large;
+    margin-top: 3%;
+    margin-left: 42%;
+    border: none;
+}

@@ -59,10 +59,11 @@
 .bar1{
     font-size:17px;
     font-family:Lato,sans-serif;
-    margin-left:20px;
+    margin-left:10px;
     text-decoration-line: none;
     color: black;
     font-weight: 700; 
+    margin-bottom: 10px;
     
 }
 .bar1:hover{
@@ -187,7 +188,9 @@
     align-items: center;
 
 }
-
+.navbar{
+    margin-bottom:10px;
+}
 
 
 
