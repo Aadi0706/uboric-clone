@@ -1,0 +1,32 @@
+.reviewsection {
+  background-color: #83751a;
+  align-items: center;
+  margin-top: 12%;
+  height: 450px;
+}
+.carousel {
+  display: flex;
+  /* border: 1px solid red; */
+  width: 55%;
+  margin: auto;
+  justify-content: center;
+  height: 300px;
+}
+.reviewCard {
+    margin-top: 40px;
+  width: 33%;
+  gap: 2%;
+  justify-content: center;
+  color: white;
+  font-size: 19px;
+  font-weight: 400;
+  font-family: Lato,sans-serif;
+}
+
+
+.reviewHeading{
+    padding-top: 40px;
+    color: white;
+
+
+}

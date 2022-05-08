@@ -1,0 +1,30 @@
+.ProductDisplay {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2%;
+  justify-content: left;
+  scroll-behavior: smooth;
+}
+.card {
+  width: 22%;
+  height: 200px;
+  color: black;
+  height: 300px;
+  justify-content: center;
+  text-decoration: none;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.card > img {
+    width: 75%;
+    height: 61%;
+}
+.card>h3{
+    font-family: Lato,sans-serif;
+    font-size: 17px;
+    width: 89%;
+    padding-top: 5%;
+    margin: auto;
+
+}
