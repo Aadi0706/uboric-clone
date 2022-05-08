@@ -1,0 +1,49 @@
+.container>h1{
+    text-align: center;
+    width: 90%;
+}
+.logindata{
+    display: grid;
+    grid-template-columns: repeat(2, minmax(45%,1fr));
+    gap: 20px;
+    width: 80%;
+    margin: auto;
+}
+.login{
+    background-color: #fafafa;
+}
+.innerdiv{
+    width: 90%;
+    margin: auto;
+   
+}
+.innerdiv1{
+    width: 90%;
+    margin: auto;
+}
+
+/* .login{
+    border: 2px solid red;
+} */
+.middletext{
+    text-align: center;
+   
+}
+/* .register{
+    border: 2px solid black;
+} */
+.button{
+    text-align: center;
+
+}
+button{
+    background-color: #ffce61;
+    width: 20%;
+    height: 50px;
+    border: 1px solid black;
+
+}
+input{
+    width: 70%;
+    height: 50px;
+}
