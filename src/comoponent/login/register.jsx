@@ -20,13 +20,16 @@ const Register=()=>{
         try{
             const url="http://localhost:8080/api/users";
             const {data:res}=await axios.post(url,data);
-            // navigate("/")
+           
             alert(res.message)
             window.location = "/";
 
         }catch(err){
             if(err.response && err.ressponse.status>=400 && err.response.status<=500 ){
                 setError(err.response.data.message)
+                alert(err)
+                
+                
             }
         }
     }
