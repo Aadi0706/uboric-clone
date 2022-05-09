@@ -85,7 +85,7 @@ const ProductSinglePage = () => {
 
       </div>
 
-      <h1>Related products</h1>
+      <h1>Related product</h1>
       <div className="relatedProducts">
         {related.map((e) => {
           return (
