@@ -1,70 +1,72 @@
-# Getting Started with Create React App
+We are thankful to Masai school, given a chance to prove by ourself’s. We are so happy to share our journey in this construct week project. Our project is regarding cloning a website, first let me introduce my team members and group name is FANTESTIC.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+group members are:
 
-## Available Scripts
+Rahul Baghel
+Amaan Haider
+Sahil Rawat
+Faiyaz Alam
+Aditya Choubey
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+                                                           website pages
 
-### `npm run eject`
+First day we went through the flow of the website and we checked the functionality of the original website and coming to know we can make dynamic website as well as responsive. Later we communicated and divided our work accordingly to build a project.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+We all are connected through zoom meet in the morning, evening hours and slack as well. We collected all the information about Uboric and which functionalities we have to add to our project. We break the projects into various parts and allotted them to each other. We started working on all features of the project separately and pushes the code to a different branch of our git-hub repo as a template and merge all the codes accordingly.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+OUR CHALLENGES :
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+We faced a lots of challenges while completing this project, The major problem was that we were working remotely so, communication and time management was major issue between us. As the project had short span of deadline so, on the last two days we all were working the whole night to complete our user-friendly website.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Making Responsive Website and adding java script feature
+Creating own data which required for website
+We are using  for also react-app and  also material UI
+while merging code and commit data to repository
+We all are SOLVED our challenges as a team with good team spirit and finally cloned the website.
 
-## Learn More
+Apart from these challenges we had some good things as a team like
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Everyone is very well supportive to each other and discussed about issues what we were facing during construct week and resolved all those.
+Everyone keen to learn & explore new things.
+We all appreciated the work done by everyone and motivated each other.
+Key Learnings :-
+Problem Solving: As we faced many challenges during this project but we never gave up and try to solve every problem accordingly.
+Creativity: We apply creative thinking skills to innovate new product designs and possibilities for projects and how to manage projects and assignments more efficiently.
+Leadership: We take ownership over their projects, reflecting on and celebrating their progress and accomplishments.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Tech Stack Used :-
 
-### Code Splitting
+HTML
+CSS
+JAVA SCRIPT
+NODE.JS
+MONGODB
+REACT-APP
+MATERIAL UI
+Follow These Steps
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+open the link which is provided .
+After the link is open you will be landed on the home page
+on navbar click on the login section
+if u are already logged-in enter your login credentials and click on login
+if you are new to this page click on create account
+in the form you have to fill
+the password must be strong
+After successful registration you will login and you are good to go
+Features
 
-### Analyzing the Bundle Size
+You can search the item in the search box and you can search any item
+you can see more section like clothes ,footwear  etc.
+you can go any section and purchase any item.
+At last, I want to thank the whole Masai School team and especially our Technical Prabhanjan and Instructor Shivang because without their guidance and instruction this task couldn’t be completed.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In the future, We would love to do these types of projects more.
