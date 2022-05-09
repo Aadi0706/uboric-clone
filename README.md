@@ -1,72 +1,69 @@
-We are thankful to Masai school, given a chance to prove by ourself’s. We are so happy to share our journey in this construct week project. Our project is regarding cloning a website, first let me introduce my team members and group name is FANTESTIC.
+# Uboric-clone
 
-group members are:
+Unit 5 Project At Masai School.
 
-Rahul Baghel
-Amaan Haider
-Sahil Rawat
-Faiyaz Alam
-Aditya Choubey
+**Links for reference :**
 
+Blog link : 
+https://rahulbaghel6211.blogspot.com/2022/05/uboric-clone.html
 
 
 
 
+# Technology We Used:
+# In Frontend:
+1. HTML
+2. CSS
+3. JavaScript
+4. Material UI
+5. React
+
+
+**About Website :**
+
+**Landing page**
+
+![Screenshot (51)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjvgthux2YKYa-t8LvvQA6RXMJFhZoGoT7aqdBzjioG7l0VlVNWT_xFJHTimStBcth_xela37g98GQBGgcQSNkQXRAQGSy1olrFh3KTXNhCgaUUzAOIHgsyvl8Q8DLWWE7oKizNg8CDR9cwuOXGn46gdAkiVEWlyhjXoKriSwI_4BHwSCtOnYXhFx4C/w614-h345/Screenshot%20(2336).png)
+
+**Signup page**
+
+![Screenshot (55)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTHxeSdyrcLhGv1zPc1xQh6Q4jsmwmqcDrdUxqeTWpYNO7-oga4JQc_QKInSwxlxQP0POlTVRzSn4HS8MqjuOehyHMDEj5UJJ-zTTpknjqxSNxs7UyXhRziBSHp0KTbVdXmRpFd5-cZrs69RaJtIWmJrvMGJxf_OW4tJUVGANCMDCtA7V7T0pdbTR4/w313-h191/Screenshot%20(2337).png)
+**Cart page**
+
+**Payment page**
+
+![Screenshot (56)](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZditOPuYQ89ya5NliRWX3--deqgjpr586It6SihIyI1rdYj68lcJFkC7qyQu415KbotXwY9B4TxozJllcuAoVYAd7QoduIByj5oUqb_bWjxCG-QJEEnOfUFdfi9vBJfuzBT_lpbxehYHQ4Ph3RnJ-9dR7neXs3BcBuWGe01bvLHGXXKSmkksxPA4x/w308-h187/Screenshot%20(2338).png)
 
 
 
 
+## Instructions to Run the Code Using AWS
+#### Note:
 
-                                                           website pages
+We created cloud database using MongoDb Atlas and deployed on AWS. So, if you want to run our code then please read the instructions below :
+- Clone our repository `https://github.com/Vaibhav0702/Myglamm-with_Frontend.git` for frontend code and `https://github.com/nikeshkumarsingh/Myglamm_with_backend.git` for backend code.
+- Download Key from `https://drive.google.com/file/d/11abC1gV8ed2VZKXR6PH-YZY7_43Jr6UL/view?usp=sharing`.
+- Go to download folder of you computer and open Git Bash here.
+- copy paste the link `ssh -i "My-Glamm_Key.pem" ubuntu@ec2-3-88-12-166.compute-1.amazonaws.com` into your Git Bash terminal and press enter key.
+- Type yes then press enter key ( if required ).
+- Type `cd /var` then press enter key.
+- Type `ls` then press enter key.
+- Type `cd Myglamm_with_backend` then press enter key.
+- Type `sudo npm run server` then press enter key.
+- It will show a message that 
+- Open the `index.html` on Live server from .
+- Then you can Navigate through other pages from Landing page like 
 
-First day we went through the flow of the website and we checked the functionality of the original website and coming to know we can make dynamic website as well as responsive. Later we communicated and divided our work accordingly to build a project.
 
-We all are connected through zoom meet in the morning, evening hours and slack as well. We collected all the information about Uboric and which functionalities we have to add to our project. We break the projects into various parts and allotted them to each other. We started working on all features of the project separately and pushes the code to a different branch of our git-hub repo as a template and merge all the codes accordingly.
 
-OUR CHALLENGES :
+## AWS API'S Instructions 
 
-We faced a lots of challenges while completing this project, The major problem was that we were working remotely so, communication and time management was major issue between us. As the project had short span of deadline so, on the last two days we all were working the whole night to complete our user-friendly website.
+- you can change the API by modifying url put one from below after 
 
-Making Responsive Website and adding java script feature
-Creating own data which required for website
-We are using  for also react-app and  also material UI
-while merging code and commit data to repository
-We all are SOLVED our challenges as a team with good team spirit and finally cloned the website.
+1. Footwear
+2. hedphones
+3. clothes
 
-Apart from these challenges we had some good things as a team like
 
-Everyone is very well supportive to each other and discussed about issues what we were facing during construct week and resolved all those.
-Everyone keen to learn & explore new things.
-We all appreciated the work done by everyone and motivated each other.
-Key Learnings :-
-Problem Solving: As we faced many challenges during this project but we never gave up and try to solve every problem accordingly.
-Creativity: We apply creative thinking skills to innovate new product designs and possibilities for projects and how to manage projects and assignments more efficiently.
-Leadership: We take ownership over their projects, reflecting on and celebrating their progress and accomplishments.
-
-Tech Stack Used :-
-
-HTML
-CSS
-JAVA SCRIPT
-NODE.JS
-MONGODB
-REACT-APP
-MATERIAL UI
-Follow These Steps
-
-open the link which is provided .
-After the link is open you will be landed on the home page
-on navbar click on the login section
-if u are already logged-in enter your login credentials and click on login
-if you are new to this page click on create account
-in the form you have to fill
-the password must be strong
-After successful registration you will login and you are good to go
-Features
-
-You can search the item in the search box and you can search any item
-you can see more section like clothes ,footwear  etc.
-you can go any section and purchase any item.
-At last, I want to thank the whole Masai School team and especially our Technical Prabhanjan and Instructor Shivang because without their guidance and instruction this task couldn’t be completed.
-
-In the future, We would love to do these types of projects more.
+## Instructions to Run the Code Using Netlify Link
+- simply open the link uboric-clone1-hazel.vercel.app
