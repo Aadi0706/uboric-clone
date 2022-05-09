@@ -21,6 +21,7 @@ const Categories = () => {
               <img src={e.imgData} alt="" />
               <h4>{e.name}</h4>
             </Link>
+            
           ))}
         </div>
       </div>

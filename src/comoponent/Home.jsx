@@ -123,8 +123,8 @@ export const Home=()=>{
      <img className='im6' src="https://www.uboric.com/wp-content/uploads/2020/12/Foot-Wear-5-400x601.jpg"  alt="" />
      </div>
      <div className='text'>
-       <div className='text1'>The Ultimate Domestic Online Shopping Experience Platform in India</div>
-       <div className='text2'><p>Online shopping with Uboric is quick, convenient and trouble-free.
+       <div className='text110'>The Ultimate Domestic Online Shopping Experience Platform in India</div>
+       <div className='text22'><p>Online shopping with Uboric is quick, convenient and trouble-free.
           You can shop for the desired product right from the comfort of your home and get them delivered straight to 
           your doorstep. Uboric offers you the chance to choose top branded products sitting in the comfort of your
            homes and just clicking on your requirements to get it delivered at your doorstep. Your search for the latest

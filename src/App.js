@@ -1,15 +1,19 @@
-import "./App.css";
+import './App.css';
 
-import { Route, Routes } from "react-router-dom";
+import {
+  Route,
+  Routes,
+} from 'react-router-dom';
 
-import { Categories } from "./comoponent/Categories";
-import { Footer } from "./comoponent/Footer";
-import { Home } from "./comoponent/Home";
-import { Login } from "./comoponent/Login";
-import { Marchent } from "./comoponent/Marchent";
-import { Navbar } from "./comoponent/Navbar";
-import { Seller } from "./comoponent/Seller";
-import { UboricRoutes } from "./comoponent/Routes/Routes";
+import { Categories } from './comoponent/Categories';
+import { Footer } from './comoponent/Footer';
+import { Home } from './comoponent/Home';
+import { Login } from './comoponent/Login';
+import { Marchent } from './comoponent/Marchent';
+import { Navbar } from './comoponent/Navbar';
+import { Reviewsection } from './comoponent/Reviewsection';
+import { UboricRoutes } from './comoponent/Routes/Routes';
+import { Seller } from './comoponent/Seller';
 
 function App() {
   return (
@@ -23,7 +27,7 @@ function App() {
         <Route path="/Seller" element={<Seller />}></Route>
       </Routes>
         <UboricRoutes />
-
+        <Reviewsection/>
       <Footer />
     </div>
   );

@@ -1,12 +1,17 @@
-import  React from "react";
-import ReactDOM from "react-dom";
-import Button from "@mui/material/Button";
+import './styles/ProductSinglePage.css';
 
-import  { useEffect, useState } from "react";
-import { Navbar } from '../Navbar';
-import { Link, useParams } from "react-router-dom";
-import axios from "axios";
-import "./styles/ProductSinglePage.css";
+import React, {
+  useEffect,
+  useState,
+} from 'react';
+
+import axios from 'axios';
+import {
+  Link,
+  useParams,
+} from 'react-router-dom';
+
+import Button from '@mui/material/Button';
 
 const ProductSinglePage = () => {
   const [singleProducts, setSingleProducts] = useState({});
@@ -40,6 +45,7 @@ const ProductSinglePage = () => {
   return (
     <>
     {/* <Navbar/> */}
+    
       <div className="SinglePagecontainer">
         <div className="productImage">
           <img src={singleProducts.imgURL} alt="" />
@@ -76,6 +82,7 @@ const ProductSinglePage = () => {
             <p>{singleProducts.product_desc.desc1}</p>
           </div> */}
         </div>
+
       </div>
 
       <h1>Related products</h1>
