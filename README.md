@@ -34,18 +34,10 @@ https://rahulbaghel6211.blogspot.com/2022/05/uboric-clone.html
 ## Instructions to Run the Code Using AWS
 #### Note:
 
-We created cloud database using MongoDb Atlas and deployed on AWS. So, if you want to run our code then please read the instructions below :
+We created cloud database using Heroku Atlas and deployed on Heroku. So, if you want to run our code then please read the instructions below :
 - Clone our repository `https://github.com/rahulbaghel6211/uboric-clone.git` for frontend code and 
-- Download Key from `https://drive.google.com/file/d/11abC1gV8ed2VZKXR6PH-YZY7_43Jr6UL/view?usp=sharing`.
-- Go to download folder of you computer and open Git Bash here.
-- copy paste the link `https://github.com/rahulbaghel6211/uboric-clone.git` into your Git Bash terminal and press enter key.
-- Type yes then press enter key ( if required ).
-- Type `cd /var` then press enter key.
-- Type `ls` then press enter key.
-- Type `sudo npm start` then press enter key.
-- It will show a message that 
-- Open the `React-app` on Live server from .
-- Then you can Navigate through other pages from Landing page like 
+- Download Key from `https://drive.google.com/file/d/1qJjQLouCvl2AyPoQ-IFyqVTTKmAeIeHy/view?usp=sharing`.
+- get the github  link `https://github.com/rahulbaghel6211/uboric-clone.git` 
 
 - you can change the API by modifying url put one from below after 
 
